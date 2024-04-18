@@ -1,4 +1,5 @@
 # Banana and Ivy Game
+<img width="1000" alt="BananaGameShot1" src="https://github.com/jamesdiffeycoding/JS-Banana-and-Ivy-Game/assets/139918141/41a3c882-266f-4454-9a89-27dae5182f4c">
 
 ## Inspiration
 Today computer games are often built with a wide variety of tools, yet there is still joy and learning to be found in simple projects. **Banana and Ivy is one such simple project**.
